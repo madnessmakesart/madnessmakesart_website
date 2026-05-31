@@ -1,2 +1,2 @@
 # madnessmakesart_website
-Artist website for MadnessMakesArt
+Site in progress!!
